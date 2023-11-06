@@ -1,7 +1,7 @@
 Algoritmo GUESS_THE_NUMBER
 	Escribir "WELCOME TO THE GUESS THE NUMBER GAME."
 	Escribir "GUESS A NUMBER BETWEEN 1-100."
-	Escribir "TYPE 999 TO EXIT THE GAME"
+	Escribir "TYPE 999 TO EXIT THE GAME."
 	Definir secretNumber, count, numberFromUser Como Entero
 	Definir exitGame Como Logico
 	secretNumber<-azar(100)
